@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Game"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/reydell/Desktop/Siren/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/reydell/Desktop/Siren/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/reydell/Desktop/Siren/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Game">
+				<Option output="/Users/reydell/Desktop/Siren/cmake-build-debug/Game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/reydell/Desktop/Siren/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 Game"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Game/fast">
+				<Option output="/Users/reydell/Desktop/Siren/cmake-build-debug/Game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/reydell/Desktop/Siren/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 Game/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/reydell/Desktop/Siren/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/reydell/Desktop/Siren/App.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/App.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Component.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Component.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/GameObject.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/GameObject.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/GraphicsManager.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/GraphicsManager.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Log.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/PhysicsManager.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/PhysicsManager.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Scene.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/SceneManager.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/SceneManager.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/ScriptManager.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/ScriptManager.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Siren.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Storage.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/Storage.h">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/main.cpp">
+			<Option target="Game"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/reydell/Desktop/Siren/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
